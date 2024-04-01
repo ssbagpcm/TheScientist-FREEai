@@ -8,7 +8,7 @@
 
 **5) Open the file named `chatbot.py`**
 
-4) **Then, copy you RapidAPI key in the code (replace "YOUR_API" on the RapidAPI key value)**
+4) **Then, copy you RapidAPI key in the code (replace "YOUR_API" on the RapidAPI key value)** (NOTE : the API key is free)
 
 **5) Install the required module : `pip install requests`**
 
